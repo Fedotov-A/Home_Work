@@ -12,22 +12,26 @@
 
 >1. Создаем метод **ArrayString**, в данном методе пользователь сам задает размер массива и заполняет его. В методе **ArrayString** через цикл **While** исключен ввод пустой строки.
 
->2. Создаем метод **ShowArray**, с помощью данного метода пользователь выводит в консоль первоначально сформированный массив строк.
-
->3. Создаем метод **MaxNum3**, с помощью данного метода получаем ответ на поставленную задачу, выводим значения строк, чья длина равна, либо меньше 3х символов.
-
 ## Блок-схема:
 
 [**Метод ArrayString**](https://github.com/Fedotov-A/Home_Work/blob/main/block%20diagram/ArrayString.jpg)
 
 ![ArrayString](/block%20diagram/ArrayString.jpg)
 
+>2. Создаем метод **ShowArray**, с помощью данного метода пользователь выводит в консоль первоначально сформированный массив строк.
+
+## Блок-схема:
 
 [**Метод ShowString**](https://github.com/Fedotov-A/Home_Work/blob/main/block%20diagram/ShowArray.jpg)
 
 ![ShowString](/block%20diagram/ShowArray.jpg)
 
+>3. Создаем метод **MaxNum3**, с помощью данного метода получаем ответ на поставленную задачу, выводим значения строк, чья длина равна, либо меньше 3х символов.
+
+## Блок-схема:
 
 [**Метод MaxNum3**](https://github.com/Fedotov-A/Home_Work/blob/main/block%20diagram/MaxNum3.jpg)
 
 ![MaxNum3](/block%20diagram/MaxNum3.jpg)
+
+Конец, спасибо за внимание!!!
