@@ -42,6 +42,7 @@ System.Console.WriteLine("Введите желаемое количество �
 int num = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine();
 string [] zero = ArrayString(num);
+Console.WriteLine($"Массив строк: ");
 ShowArray(zero);
 Console.WriteLine();
 Console.WriteLine($"Строки, длина которых меньше либо равна 3 символам!!! ");
